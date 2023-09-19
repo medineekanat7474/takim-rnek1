@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\takimörnek1\takimörnek1\bin\Debug\takimörnek1.exe.config
+C:\Users\User\source\repos\takimörnek1\takimörnek1\bin\Debug\takimörnek1.exe
+C:\Users\User\source\repos\takimörnek1\takimörnek1\bin\Debug\takimörnek1.pdb
+C:\Users\User\source\repos\takimörnek1\takimörnek1\obj\Debug\takimörnek1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\takimörnek1\takimörnek1\obj\Debug\takimörnek1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\takimörnek1\takimörnek1\obj\Debug\takimörnek1.Form1.resources
+C:\Users\User\source\repos\takimörnek1\takimörnek1\obj\Debug\takimörnek1.Properties.Resources.resources
+C:\Users\User\source\repos\takimörnek1\takimörnek1\obj\Debug\takimörnek1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\takimörnek1\takimörnek1\obj\Debug\takimörnek1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\takimörnek1\takimörnek1\obj\Debug\takimörnek1.exe
+C:\Users\User\source\repos\takimörnek1\takimörnek1\obj\Debug\takimörnek1.pdb
